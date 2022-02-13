@@ -8,7 +8,7 @@ Cuidado com o volume do jogo, regule pelo seu computador ou dispositivo de som.
 ## Controles
 
 - Setinhas - Movimentação (cima, baixo e lados).
-- F - Atirar.
+- F (minúsculo) - Atirar.
 - Barra de espaço - Iniciar jogo e/ou recomeçar.
 
 ## Mecânicas
